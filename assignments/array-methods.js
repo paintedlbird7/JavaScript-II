@@ -80,7 +80,7 @@ console.log(fullName);
 //BECAME DRUNK WITH POWER. Convert each first name into all caps and log the result
 
 let allCaps = [];
- //allCaps = runners.map(item => item.first_name.toUpperCase());
+//  allCaps = runners.map(item => item.first_name.toUpperCase());
 runners.map(item => toUpperCase.push(`${item.first_name}`));
 console.log(allCaps);
 
